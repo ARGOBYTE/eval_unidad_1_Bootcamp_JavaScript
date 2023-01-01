@@ -55,15 +55,29 @@ Las **opciones del menú** pueden escogerse escribiendo el número del elemento 
 <a name = "21-agregar-dinero-a-la-cuenta"></a>
 ### 2.1. Agregar dinero a la cuenta
 
-**Ingreso**
+Ingresa de la siguiente forma desde el menú principal:
+
+| Opción del menú | Digitar |
+|-----------------|---------|
+| Agregar dinero a la cuenta | **1** |
+
+> **Ingreso**
 : Un ingreso es toda aquella ganancia que se recibe por la venta de un bien o servicio, que generalmente se hace efectiva mediante un cobro monetario.
 
-Con esta opción, el usuario podrá ingresar el valor de la entrada de dinero a la cartera y especificar el concepto de dicho monto. El sistema registrará la *fecha y hora* según el momento en que se haga el procedimiento, todo ello para ofrecer una mayor facilidad a la hora de ingresar los datos. El usuario solo tendrá que registrar el *valor del ingreso y el concepto* o proveniencia del mismo.
+Con esta opción, el usuario podrá ingresar el valor de la entrada de dinero o ingreso [^1] a la cartera y especificar el concepto de dicho monto. El sistema registrará la *fecha y hora* según el momento en que se haga el procedimiento, todo ello para ofrecer una mayor facilidad a la hora de ingresar los datos. El usuario solo tendrá que registrar el *valor del ingreso y el concepto* o proveniencia del mismo.
 
 > **NOTA:** El monto que se ingresa debe ser numérico y no contener puntos *(.)* o comas *(,)*, en caso de ingresar algo diferente en la caja de texto, el sistema pedirá de nuevo la información.
 
+[^1]: Un ingreso es toda aquella ganancia que se recibe por la venta de un bien o servicio, que generalmente se hace efectiva mediante un cobro monetario.
+
 <a name = "22-histórico-de-ingresos"></a>
 ### 2.2. Histórico de ingresos
+
+Ingresa de la siguiente forma desde el menú principal:
+
+| Opción del menú | Digitar |
+|-----------------|---------|
+| Histórico de ingresos | **2** |
 
 Con el fin de ofrecer la visualización clara de los ingresos obtenidos por el usuario y registrados, el sistema mostrará una tabla con la información diferenciada en este aspecto. A continuación, verá un ejemplo de un cuadro de ingresos:
 
@@ -75,6 +89,15 @@ Con el fin de ofrecer la visualización clara de los ingresos obtenidos por el u
 
 <a name = "23-agregar-gastos-a-la-cuenta"></a>
 ### 2.3. Agregar gastos a la cuenta
+
+Ingresa de la siguiente forma desde el menú principal:
+
+| Opción del menú | Digitar |
+|-----------------|---------|
+| Agregar gastos a la cuenta | **3** |
+
+> **Gasto**
+: .
 
 <a name = "24-histórico-de-gastos"></a>
 ### 2.4. Histórico de gastos
