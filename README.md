@@ -29,6 +29,8 @@ Bienvenido a la documentación del Sistema de Gestión de Ingresos y Gastos o en
 
 <p>Su principal objetivo es brindar una solución informática para la administración de las finanzas personales, todo esto a través del acceso a opciones simples de manejar y con la precisión necesaria para llevar a cabo el balance en el momento que se desee.</p>
 
+---
+
 <a name = "2-opciones-y-uso-del-sistema"></a>
 ### 2. Opciones y uso del sistema
 
@@ -45,16 +47,31 @@ Bienvenido a la documentación del Sistema de Gestión de Ingresos y Gastos o en
 7. Corregir un movimiento de la cuenta
 8. Eliminar un movimiento de la cuenta
 
-- - -
+
 Las **opciones del menú** pueden escogerse escribiendo el número del elemento que desea abrir, por ejemplo, para ingresar a ver el *histórico de movimientos* de la cuenta, se debe digitar el número **5** en la caja de texto del menú principal y luego presionar **Enter** o **Aceptar**.
 
-Luego de finalizar el proceso en alguna de las opciones del sistema, inmediatamente se desplegará el menú principal para seguir con otra tarea o directamente finalizar el programa.
+> Despues de finalizar el proceso en alguna de las opciones del sistema, inmediatamente se desplegará el menú principal para seguir con otra tarea o directamente finalizar el programa.
 
 <a name = "21-agregar-dinero-a-la-cuenta"></a>
 ### 2.1. Agregar dinero a la cuenta
 
+**Ingreso**
+: Un ingreso es toda aquella ganancia que se recibe por la venta de un bien o servicio, que generalmente se hace efectiva mediante un cobro monetario.
+
+Con esta opción, el usuario podrá ingresar el valor de la entrada de dinero a la cartera y especificar el concepto de dicho monto. El sistema registrará la *fecha y hora* según el momento en que se haga el procedimiento, todo ello para ofrecer una mayor facilidad a la hora de ingresar los datos. El usuario solo tendrá que registrar el *valor del ingreso y el concepto* o proveniencia del mismo.
+
+> **NOTA:** El monto que se ingresa debe ser numérico y no contener puntos *(.)* o comas *(,)*, en caso de ingresar algo diferente en la caja de texto, el sistema pedirá de nuevo la información.
+
 <a name = "22-histórico-de-ingresos"></a>
 ### 2.2. Histórico de ingresos
+
+Con el fin de ofrecer la visualización clara de los ingresos obtenidos por el usuario y registrados, el sistema mostrará una tabla con la información diferenciada en este aspecto. A continuación, verá un ejemplo de un cuadro de ingresos:
+
+| (index) | id | fecha | valor | concepto |
+|---------|----|-------|-------|----------|
+| 0 | 1672411771769 | '30/12/2022' | '200' | 'Venta de artículo' |
+| 1 | 1672412077989 | '30/12/2022' | '100' | 'Me los encontré en la calle' |
+| 2 | 1672412149678 | '30/12/2022' | '1000' | 'Lo que sobró del pasaje de hoy' |
 
 <a name = "23-agregar-gastos-a-la-cuenta"></a>
 ### 2.3. Agregar gastos a la cuenta
