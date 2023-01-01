@@ -147,9 +147,9 @@ Ingresa de la siguiente forma desde el menú principal:
 Provee información resumida de la cuenta en tres aspectos: *ingresos*, *gastos* y *balance*. El *balance* corresponde al resultado de sustraer los *gastos* a los *ingresos* registrados en el sistema, por ejemplo:
 
 ***
-Los ingresos suman: $ 1.300
-Los gastos totales suman: $ 200
-El balance corresponde a: $ 1.100
+Los ingresos suman: $ 1.300<br>
+Los gastos totales suman: $ 200<br>
+El balance corresponde a: $ 1.100<br>
 ***
 
 <a name = "27-corregir-un-movimiento-de-la-cuenta"></a>
